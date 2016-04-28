@@ -1,0 +1,40 @@
+@-moz-document url-prefix("https://www.facebook.com/messages/") {
+#rightCol,
+._21dp {
+    display: none;
+}
+._2nb, ._2nc .uiScrollableAreaBody, ._2nc {
+    width: 540px !important;
+}
+.wmMasterView {
+    width: 276;
+}
+#globalContainer {
+    margin: auto !important;
+}
+#pagelet_web_messenger ._ksg {
+    margin: 0px !important;
+}
+._5p3y {
+    overflow: hidden !important;
+}
+.wmMasterView {
+    width: 263px !important;
+}
+._2tm {
+    width: 250px !important;
+}
+.wmMasterView ._k-:first-child {
+    width: 240px;
+}
+.wmMasterView ._k-:hover {
+    width: 239px;
+}
+}
+
+@-moz-document url-prefix("https://www.facebook.com/") {
+.rNubContainer ._50-v,
+.fbChatSidebar {
+    display: none !important;
+}
+}
